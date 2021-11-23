@@ -1,7 +1,7 @@
-### Olá! Eu sou o Otávio Freire 👋👋
+### Olá! Eu sou o Otávio Freire 👋🏽👨🏽
 ##
 - 💻 Atualmente trabalho como Programador JR em Accionar
-- 🔭 Hoje trabalho com back-end, front-end e automação.
+- 🔭 Hoje trabalho com back-end, front-end e automação
 - 🗺 Moro em Hortolândia - São Paulo
 - 🎓 Formado em Tecnólogo em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando a Língua inglesa.
