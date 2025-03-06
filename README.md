@@ -1,11 +1,10 @@
 # Olá! Eu sou o Otávio Freire 👋🏽👨🏽
-- 💻 Atualmente trabalho como Programador JR em Sequor.
-- 🔭 Hoje trabalho com desenvolvimento de software industrial
+- 💻 Atualmente trabalho como Back-end Developer na Veridiana Quirino.
+- 🔭 Hoje trabalho com desenvolvimento e sustentabilidade de sistemas internos da empresa.
 - 🗺 Moro em Hortolândia - São Paulo
 - 🎓 Formado em Tecnólogo em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando a Língua inglesa.
 - 🌏 Estudando Js, ReactJS, entre outros.
-- 😄 Pronouns:  ele/dele.
 ## 
 <div align="center">
   <a href="https://github.com/OtavioFreire">
